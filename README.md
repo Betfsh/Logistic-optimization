@@ -30,8 +30,8 @@ This repository contains code and data for optimizing the placement of delivery 
 
 1. Clone the repository:
 
-git clone git@github.com:Betfsh/Logistic-optimization.git
-cd Logistic-optimization
+    git clone git@github.com:Betfsh/Logistic-optimization.git
+    cd Logistic-optimization
 
 2. Create a virtual environment using Python 3.10:
     ```bash
