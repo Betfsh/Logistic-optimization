@@ -10,7 +10,7 @@
 
 ## Project Overview
 
-This repository contains code and data for optimizing the placement of delivery drivers for Gokada, a last-mile delivery service in Nigeria. The goal is to reduce unfulfilled delivery requests by analyzing historical data and identifying key factors influencing order completion.
+This repository contains code and data for optimizing the placement of delivery drivers on a last-mile delivery service in Nigeria. The goal is to reduce unfulfilled delivery requests by analyzing historical data and identifying key factors influencing order completion.
 
 ## Data Exploration
 
