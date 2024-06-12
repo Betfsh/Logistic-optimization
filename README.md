@@ -1,6 +1,6 @@
 # Logistic-optimization
 
-# Gokada Delivery Drivers Location Optimization
+# Delivery Drivers Location Optimization
 
 ## Table of Contents
 - [Project overview](#introduction)
