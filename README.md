@@ -35,7 +35,7 @@ This repository contains code and data for optimizing the placement of delivery 
 
 2. Create a virtual environment using Python 3.10:
     ```bash
-    python3.10 -m venv env
+    python3.8 -m venv env
     source env/bin/activate  # On Windows use `env\Scripts\activate`
     ```
 
